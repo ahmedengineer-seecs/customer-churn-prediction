@@ -61,12 +61,6 @@ Three models were trained to predict customer churn:
 
 ✅ **Best Model:** XGBoost (highest accuracy and F1-score).
 
-**Sample Visualization:**  
-*(Add sample images or graphs from your results folder, e.g., feature importance plot)*  
-![Feature Importance](images/feature_importance.png)
-
----
-
 ## 🚀 Installation & Usage
 
 ### 1. Clone the repository
