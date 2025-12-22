@@ -61,38 +61,3 @@ Three models were trained to predict customer churn:
 
 ✅ **Best Model:** XGBoost (highest accuracy and F1-score).
 
-## 🚀 Installation & Usage
-
-### 1. Clone the repository
-```bash
-git clone https://github.com/ahmedengineer-seecs/customer-churn-prediction.git
-cd customer-churn-prediction
-```
-
-### 2. Install dependencies
-```bash
-pip install -r requirements.txt
-```
-
-### 3. Run the Jupyter Notebook
-```bash
-jupyter notebook notebooks/churn_prediction.ipynb
----
-
-## 🤝 Contributing
-
-Contributions are welcome!  
-If you'd like to improve the models, clean the code, or add new features, please fork the repo and submit a pull request.
-
----
-
-## 📬 Contact
-
-For questions, suggestions, or collaboration, reach out to [ahmedmagsiaa085@gmail.com] or open an issue in this repository.
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
