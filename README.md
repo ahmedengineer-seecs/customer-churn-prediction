@@ -1,6 +1,6 @@
-# Customer Churn Prediction 📊
+# Customer Churn Prediction 
 
-## 📌 Project Overview
+##  Project Overview
 Customer churn occurs when customers stop doing business with a company.  
 Predicting churn is critical for telecom, banking, and SaaS companies to retain customers and reduce revenue loss.
 
@@ -9,7 +9,7 @@ The goal is to identify at-risk customers and provide actionable insights for re
 
 ---
 
-## 📂 Dataset
+##  Dataset
 - **Source:** [Telco Customer Churn (Kaggle)](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)  
 - **File:** `WA_Fn-UseC_-Telco-Customer-Churn.csv`  
 
